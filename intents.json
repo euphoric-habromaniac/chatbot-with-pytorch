@@ -1,0 +1,140 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "Hello"
+        ],
+        "responses": [
+          "Welcome to our gaming cafe! How can I assist you today?",
+          "Hey there! Ready to play some games?",
+          "Hello! What can I help you with?"
+        ]
+      },
+      {
+        "tag": "menu",
+        "patterns": [
+          "What games do you have?",
+          "What's on the menu?",
+          "Can you tell me about your games?"
+        ],
+        "responses": [
+          "We have a variety of games including first-person shooters, strategy games, and multiplayer adventures. Which genre are you interested in?"
+        ]
+      },
+      {
+        "tag": "payment",
+        "patterns": [
+          "How much does it cost to play?",
+          "What are your payment options?",
+          "Do you accept credit cards?"
+        ],
+        "responses": [
+          "Our gaming rates vary depending on the duration of play. We accept cash and credit cards for payments."
+        ]
+      },
+      {
+        "tag": "hours",
+        "patterns": [
+          "What are your opening hours?",
+          "When do you open and close?"
+        ],
+        "responses": [
+          "We're open from 10:00 AM to 10:00 PM every day of the week."
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": [
+          "Bye",
+          "See you later",
+          "Goodbye"
+        ],
+        "responses": [
+          "Thanks for visiting our gaming cafe! Have a great day!",
+          "Goodbye! Hope to see you again soon!",
+          "See you later! Enjoy your gaming!"
+        ]
+      },
+      {
+        "tag": "reservation",
+        "patterns": [
+          "Can I make a reservation?",
+          "Are reservations required?",
+          "How do I reserve a gaming slot?"
+        ],
+        "responses": [
+          "Yes, we accept reservations for gaming slots. Please let us know your preferred date and time, and we'll check availability for you."
+        ]
+      },
+      {
+        "tag": "recommendation",
+        "patterns": [
+          "Can you recommend a game for me?",
+          "What game would you suggest?",
+          "I'm new to gaming. Any recommendations?"
+        ],
+        "responses": [
+          "Sure! Based on your preferences, I recommend trying out [Recommended Game]. It's beginner-friendly and offers a great gaming experience."
+        ]
+      },
+      {
+        "tag": "events",
+        "patterns": [
+          "Do you host gaming events?",
+          "Are there any tournaments coming up?",
+          "What events do you have?"
+        ],
+        "responses": [
+          "Yes, we regularly host gaming events and tournaments. Stay tuned for updates on our upcoming events and how to participate!"
+        ]
+      },
+      {
+        "tag": "membership",
+        "patterns": [
+          "Do you have a membership program?",
+          "What are the benefits of becoming a member?",
+          "Can I sign up for a membership?"
+        ],
+        "responses": [
+          "Yes, we offer a membership program with exclusive benefits such as discounts on gaming sessions, priority access to new releases, and special invites to members-only events. Sign up today to unlock these perks!"
+        ]
+      },
+      {
+        "tag": "food_and_beverage",
+        "patterns": [
+          "Do you serve food and drinks?",
+          "What's on the menu?",
+          "Can I order food while gaming?"
+        ],
+        "responses": [
+          "Absolutely! We have a delicious selection of snacks, beverages, and meals to keep you fueled up while gaming. Check out our menu for mouth-watering options!"
+        ]
+      },
+      {
+        "tag": "technical_support",
+        "patterns": [
+          "I'm having technical issues. Can you help?",
+          "My game is lagging. What should I do?",
+          "How do I troubleshoot gaming equipment?"
+        ],
+        "responses": [
+          "We're here to assist you with any technical issues you may encounter. Please describe the problem, and we'll do our best to resolve it for you."
+        ]
+      },
+      {
+        "tag": "feedback",
+        "patterns": [
+          "I have feedback about my experience.",
+          "Can I leave a review?",
+          "How can I provide feedback?"
+        ],
+        "responses": [
+          "We value your feedback! Feel free to share your thoughts, suggestions, or concerns with us. Your feedback helps us improve our services and enhance your gaming experience."
+        ]
+      }
+    ]
+  }
+  
